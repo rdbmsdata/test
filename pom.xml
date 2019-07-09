@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>spring.oshift</groupId>
-	<artifactId>spring.oshift.service</artifactId>
+	<artifactId>spring_oshift</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-oshift</name>
 	<description>Spring Openshift</description>
