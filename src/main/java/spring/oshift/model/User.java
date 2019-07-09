@@ -6,7 +6,7 @@ package spring.oshift.model;
 import java.io.Serializable;
 
 /**
- * @author x136858
+ * @author Ranjan Dutta
  *
  */
 public class User implements Serializable {

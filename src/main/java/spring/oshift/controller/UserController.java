@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import spring.oshift.model.User;
 
 /**
- * @author x136858
+ * @author Ranjan Dutta
  *
  */
 @RestController
