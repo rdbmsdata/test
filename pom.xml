@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>spring.oshift</groupId>
-	<artifactId>spring_oshift</artifactId>
+	<artifactId>spring-oshift</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-oshift</name>
 	<description>Spring Openshift</description>
@@ -43,7 +43,9 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+			
 		</plugins>
+		<finalName>spring-oshift</finalName>
 	</build>
 
 </project>
